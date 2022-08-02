@@ -1,5 +1,3 @@
-![Header image](https://raw.githubusercontent.com/DarkApofis/DarkApofis/main/Assets/github-header-image.png)
-
 ```shell
 { 
   "name": "Jose Alfredo Osorio Garcia",
