@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @DarkApofis
-- 👀 I’m interested in the front-end
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+```json
+ { "name": "Jose Alfredo Osorio Garcia",
+   "role": "Frontend Dev | PERN Stack",
+   "data": 
+     { 
+      "Linkedin" : "https://www.linkedin.com/in/jose-alfredo-osorio-garcia/", 
+     }
+ }
+```
 
 <!---
 DarkApofis/DarkApofis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
