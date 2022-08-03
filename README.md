@@ -12,6 +12,12 @@
 }
 ```
 
+<a href="https://www.linkedin.com/in/jose-alfredo-osorio-garcia/">
+  <img align="left" alt="Jose Osorio LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
+</a>
+
+<br/>
+
 <h4>Programming Languages</h4>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
