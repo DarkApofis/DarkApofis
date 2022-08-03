@@ -3,7 +3,7 @@
   "name": "Jose Alfredo Osorio Garcia",
   "country": "Colombia",
   "role": "Frontend Dev | PERN Stack",
-  "aboutMe": "I'm a fullstack developer oriented to frontend development with react",
+  "description": "I'm a fullstack developer oriented to frontend development with react",
   "data": 
     { 
      "Linkedin" : "https://www.linkedin.com/in/jose-alfredo-osorio-garcia/",
