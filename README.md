@@ -12,7 +12,7 @@
 }
 ```
 
-<a href="https://www.linkedin.com/in/jose-alfredo-osorio-garcia/ target="_blank"">
+<a href="https://www.linkedin.com/in/jose-alfredo-osorio-garcia/" target="_blank">
   <img align="left" alt="Jose Osorio LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
 
