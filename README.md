@@ -1,10 +1,13 @@
 ```shell
 { 
   "name": "Jose Alfredo Osorio Garcia",
+  "country": "Colombia",
   "role": "Frontend Dev | PERN Stack",
+  "aboutMe": "I'm a fullstack developer oriented to frontend development with react",
   "data": 
     { 
-     "Linkedin" : "https://www.linkedin.com/in/jose-alfredo-osorio-garcia/", 
+     "Linkedin" : "https://www.linkedin.com/in/jose-alfredo-osorio-garcia/",
+     "Email": "joseinvictus273@hotmail.com"
     }
 }
 ```
