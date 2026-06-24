@@ -7,7 +7,7 @@
   "data": 
     { 
      "linkedin" : "https://www.linkedin.com/in/jose-alfredo-osorio-garcia/",
-     "email": "joseinvictus273@hotmail.com"
+     "email": "joseinvictus273@gmail.com"
     }
 }
 ```
