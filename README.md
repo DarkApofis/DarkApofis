@@ -1,40 +1,39 @@
-```shell
-{ 
-  "name": "Jose Alfredo Osorio Garcia",
-  "country": "Colombia",
-  "role": "Frontend Dev | PERN Stack",
-  "description": "I'm a fullstack developer oriented to frontend development with react",
-  "data": 
-    { 
-     "linkedin" : "https://www.linkedin.com/in/jose-alfredo-osorio-garcia/",
-     "email": "joseinvictus273@gmail.com"
-    }
-}
-```
+# Hi, I'm Jose Osorio 👋
 
-<a href="https://www.linkedin.com/in/jose-alfredo-osorio-garcia/">
-  <img align="left" alt="Jose Osorio LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
-</a>
+**Fullstack Engineer · React / TypeScript / Next.js · Go** — Medellín, Colombia 🇨🇴
 
-<br/>
+I build fast, scalable web products. I spent 3+ years at **Mercado Libre** working on large-scale frontend systems, and today I work across the stack with **Go**, **Node.js (NestJS)** and **PostgreSQL**.
 
-<h4>Programming Languages</h4>
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-</p>
+### 🚀 Highlights
 
-<h4>Frontend Development</h4>
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-</p>
-<h4>Backend Development</h4>
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
-</p>
+- Built a large-scale **editorial CMS** in React + TypeScript used by content teams at Mercado Libre
+- Designed a **shared component library** adopted across multiple teams
+- Led **Core Web Vitals** optimization (code splitting, lazy loading, rendering performance)
+- Shipped the team's **first generative AI feature** to production — SSE streaming with the Anthropic and OpenAI APIs, orchestrated with a state machine
+
+### 🛠️ Tech stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
+
+### 📌 Featured projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [**SeismoWatch**](https://github.com/DarkApofis/seismowatch) | Real-time earthquake visualization with interactive maps and charts — [live demo](https://joseosoriodev.vercel.app) | Next.js · TanStack Query · MapLibre · Recharts |
+| [**Tablero**](https://github.com/DarkApofis/tablero) | Collaborative real-time Kanban board | Next.js · Go · PostgreSQL |
+| [**Astronomical Clock**](https://github.com/DarkApofis/astronomical-clock) | Interactive planetarium / sky-dome experience with rich animations | React · GSAP |
+
+### 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-alfredo-osorio-garcia/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://joseosoriodev.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:joseinvictus273@gmail.com)
